@@ -1,0 +1,139 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: black;
+    width: 100%;
+    height: 230px;
+}
+.h1{
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+    float: left;
+}
+a{
+    text-decoration: none;
+}
+.content1{
+    float: left;
+}
+li{
+    float: left;
+    margin-top: 80px;
+    margin-left: 40px;
+}
+a{
+    color: white;
+    margin-left: 10px;
+}
+ul{
+    margin-left: 30px;
+    list-style: none;
+}
+.body{
+    height: 120px;
+    text-align: center;
+    color: #F36C21;
+    margin-top: 50px;
+    font-family: sans-serif;
+}
+.content2{
+    float: left;
+}
+.name{
+    color: black;
+}
+.sp1{
+    margin-left: 120px;
+}
+.sp1-1{
+    margin-left: 230px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+.sp1-2{
+    margin-left: 250px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+.sp2-1{
+    margin-left: 110px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+.sp2-2{
+    margin-left: 140px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+.sp3-1{
+    margin-left: 110px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+.sp3-2{
+    margin-left: 140px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+.content3{
+    float: left;
+    padding-top: 50px;
+}
+.sp4{
+    margin-left: 120px;
+}
+.sp4-1{
+    margin-left: 220px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+.sp4-2{
+    margin-left: 250px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+.sp5-1{
+    margin-left: 90px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+.sp5-2{
+    margin-left: 140px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+.sp6-1{
+    margin-left: 130px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+.sp6-2{
+    margin-left: 140px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+.logo{
+    margin-left: 1200px;
+    margin-bottom: 10px;
+}
+#footer{
+    clear: left;
+    height: 100px;
+    text-align: center;
+    color: #F36C21;
+    margin-top: 50px;
+    padding-top: 20px;
+}
+#ft{
+    clear: left;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+    padding-top: 10px;
+    font-family: sans-serif;
+}
+
