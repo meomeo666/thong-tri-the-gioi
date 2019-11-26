@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Cửa hàng đồ dùng cho trẻ em</h1>
+    <h3>Mời các bạn chọn đồ muốn mua</h3>
+    <img src="./Menu/home.jpg" alt="" usemap="#menu" id="menu">
+    <map name="menu">
+        <area shape="poly" coords="281,295,185,294,191,256,172,267,157,236,195,212,274,209,307,234,283,263,273,249" href="./ao.html" alt="áo">
+        <area shape="poly" coords="194,300,185,385,230,389,232,326,239,390,282,390,272,302" href="./quan.html" alt="quần">
+        <area shape="poly" coords="186,387,160,394,150,421,229,421,227,392,240,393,237,421,314,424,307,397,282,390" href="./giay.html" alt="giày">
+    </map>
+    <script type="text/javascript">
+        function Doihinh(hinh){
+            document.getElementById("menu").src = hinh;
+        }
+        function KhoiPhuc(){
+            document.getElementById("menu").src = "Menu\\home.jpg";
+        }
+    </script>
+</body>
+</html>
