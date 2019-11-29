@@ -13,8 +13,16 @@ body{
     margin-left: 100px;
     float: left;
 }
-a{
+a:link,
+a:visited,
+a:active{
+    border-bottom: black;
     text-decoration: none;
+    padding: 5px;
+}
+a:hover{
+    text-decoration: none;
+    border-bottom: 1px solid white;
 }
 .content1{
     float: left;
